@@ -1,0 +1,68 @@
+.topnav{
+    background-color: black;
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+/*================================================================*/
+
+#ascend{
+    width: 30%;
+    height: 30%;
+    padding-right: 10%;
+}
+#ascend :hover{
+    opacity: 0.3;
+}
+.firstrow{
+    padding-left: 24%;
+    padding-top: 10%;
+}
+#bind{
+    width: 30%;
+    height: 30%;
+}
+
+/*================================================================*/
+
+#breeze{
+    width: 30%;
+    height: 30%;
+    padding-right: 10%;
+}
+.secondrow{
+    padding-left: 24%;
+    padding-top: 2%;
+}
+#fracture{
+    width: 30%;
+    height: 30%;
+}
+
+/*================================================================*/
+
+#haven{
+    width: 30%;
+    height: 30%;
+    padding-right: 10%;
+}
+.thirdrow{
+    padding-left: 24%;
+    padding-top: 2%;
+}
+#icebox{
+    width: 30%;
+    height: 30%;
+}
+ #title{
+    padding-left: 45%;
+ }
+ #ascend :hover{
+    background-color: blueviolet;
+ }
