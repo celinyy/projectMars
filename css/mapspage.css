@@ -66,3 +66,20 @@
  #ascend :hover{
     background-color: blueviolet;
  }
+ 
+ /*================================================================*/
+
+
+ #pearl{
+    width: 30%;
+    height: 30%;
+    padding-right: 10%;
+ }
+ .fourthrow{
+    padding-left: 24%;
+    padding-top: 2%;
+ }
+ #split{
+    width: 30%;
+    height: 30%;
+ }
