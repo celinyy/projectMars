@@ -1,34 +1,4 @@
-.topnav{
-    background-color: black;
-    overflow: hidden;
-}
- .topnav a{
-    color: #FFD700;
-    float: left;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    
- }
- .title{
-    background-color: aquamarine;
- }
-#title1{
-    background-color: pink;
 
-}
-body{
-    background-image: linear-gradient(white,pink,cyan);
-    height:100vh
-}
-#button{
-    background-color: white;
-    color: black;
-    text-align: center;
-    
-    margin: 20% 0% 0% 45%;
-}
 #brimstone{
     height: 48%;
     width: 48%;
