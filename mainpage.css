@@ -29,3 +29,53 @@ body{
     
     margin: 20% 0% 0% 45%;
 }
+#brimstone{
+    height: 48%;
+    width: 48%;
+    
+}
+
+#fade{
+    height: 48%;
+    width:  48%;
+    
+    
+}
+.brimfade{
+    padding-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+#kay0{
+    height: 48%;
+    width:  48%;
+}
+
+#killjoy{
+    height: 48%;
+    width:  48%;
+
+}
+.kayjoy{
+    padding-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+#phoneix{
+    height: 48%;
+    width:  48%;
+
+}
+#sage{
+    height: 48%;
+    width:  48%; 
+}
+.phxsage{
+    padding-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}   
