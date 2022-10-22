@@ -1,51 +1,39 @@
-
+.agentbar{
+    text-align: center;
+padding-top: 33.3%;
+}
 #brimstone{
-    height: 48%;
-    width: 48%;
-    
+    height: 9.6%;
+    width: 9.6%;
+    background-color: orange;
 }
 
 #fade{
-    height: 48%;
-    width:  48%;
-    
-    
-}
-.brimfade{
-    padding-top: 10%;
-    padding-left: 2%;
-    padding-right: 2%;
+    height: 10%;
+    width:  10%;
+    background-color: red;
     
 }
-
-#kay0{
-    height: 48%;
-    width:  48%;
+#kayo{
+    height: 10%;
+    width:  10%;
+    background-color: cyan;
 }
 
 #killjoy{
-    height: 48%;
-    width:  48%;
+    height: 10%;
+    width:  10%;
 
 }
-.kayjoy{
-    padding-top: 10%;
-    padding-left: 2%;
-    padding-right: 2%;
-    
-}
-#phoneix{
-    height: 48%;
-    width:  48%;
+#viper{
+    height: 10%;
+    width:  10%;
 
 }
-#sage{
-    height: 48%;
-    width:  48%; 
+#sova{
+    height: 10%;
+    width:  10%; 
 }
-.phxsage{
-    padding-top: 10%;
-    padding-left: 2%;
-    padding-right: 2%;
-
-}   
+#title{
+    text-align: center;
+}
