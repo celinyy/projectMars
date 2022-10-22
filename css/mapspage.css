@@ -1,15 +1,4 @@
-.topnav{
-    background-color: black;
-    overflow: hidden;
-}
-.topnav a{
-    float: left;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
+
 /*================================================================*/
 
 #ascend{
