@@ -8,6 +8,7 @@ padding-top: 33.3%;
     background-color: orange;
 }
 
+
 #fade{
     height: 10%;
     width:  10%;
@@ -23,14 +24,18 @@ padding-top: 33.3%;
 #killjoy{
     height: 10%;
     width:  10%;
-
+    background-color: bisque;
 }
 #viper{
     height: 10%;
     width:  10%;
+    background-color:rgb(23, 202, 23) ;
 
 }
 #sova{
     height: 10%;
-    width:  10%; 
+    width:  10%;
+    background-color: gold; 
 }
+
+
