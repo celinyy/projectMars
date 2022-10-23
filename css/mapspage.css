@@ -1,74 +1,43 @@
 
-/*================================================================*/
-
-#ascend{
-    width: 30%;
-    height: 30%;
-    padding-right: 10%;
-}
-#ascend :hover{
-    opacity: 0.3;
-}
 .firstrow{
-    padding-left: 24%;
-    padding-top: 10%;
+    padding-left: 20%;
+    padding-top: 0%;
+}
+#ascend{
+    width: 25%;
+    height: 25%;
 }
 #bind{
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
 }
-
-/*================================================================*/
-
 #breeze{
-    width: 30%;
-    height: 30%;
-    padding-right: 10%;
-}
-.secondrow{
-    padding-left: 24%;
-    padding-top: 2%;
+    width: 25%;
+    height: 25%;
+    
 }
 #fracture{
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
 }
-
-/*================================================================*/
-
 #haven{
-    width: 30%;
-    height: 30%;
-    padding-right: 10%;
+    width: 25%;
+    height: 25%;
+    
 }
-.thirdrow{
-    padding-left: 24%;
-    padding-top: 2%;
-}
+
 #icebox{
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
 }
  #title{
     padding-left: 45%;
- }
- #ascend :hover{
-    background-color: blueviolet;
- }
- 
- /*================================================================*/
-
-
+}
  #pearl{
-    width: 30%;
-    height: 30%;
-    padding-right: 10%;
- }
- .fourthrow{
-    padding-left: 24%;
-    padding-top: 2%;
- }
+    width: 25%;
+    height: 25%;
+}
  #split{
-    width: 30%;
-    height: 30%;
- }
+    width: 25%;
+    height: 25%;
+}

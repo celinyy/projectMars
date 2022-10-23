@@ -5,32 +5,33 @@ padding-top: 33.3%;
 #brimstone{
     height: 9.6%;
     width: 9.6%;
-    background-color: orange;
+    background-color: black;
 }
 
 #fade{
     height: 10%;
     width:  10%;
-    background-color: red;
+    background-color: black;
     
 }
 #kayo{
     height: 10%;
     width:  10%;
-    background-color: cyan;
+    background-color: black;
 }
 
 #killjoy{
-    height: 10%;
-    width:  10%;
-
+    height: 10.3%;
+    width:  10.3%;
+    background-color: black;
 }
 #viper{
-    height: 10%;
-    width:  10%;
-
+    height: 10.1%;
+    width:  10.1%;
+    background-color: black;
 }
 #sova{
-    height: 10%;
-    width:  10%; 
+    height: 9.7%;
+    width:  9.7%;
+    background-color: black; 
 }
