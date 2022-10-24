@@ -36,3 +36,7 @@ padding-top: 33.3%;
     width:  9.7%;
     background-color: black; 
 }
+body{
+    background-image: linear-gradient(white,pink,cyan);
+    height:100vh
+}
