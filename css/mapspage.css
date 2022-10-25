@@ -49,3 +49,12 @@
     width: 30%;
     height: 30%;
 }
+h1{
+    font-family: Impact;
+    
+
+}
+body{
+    background-image: linear-gradient(white,pink,cyan);
+    height:100vh
+}
