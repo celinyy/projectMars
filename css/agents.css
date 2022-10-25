@@ -36,3 +36,9 @@ padding-top: 33.3%;
     width:  9.7%;
     background-color: black; 
 }
+.brimbody{
+    background-color: orange;
+}
+.brimcontainer{
+    float: left;
+}

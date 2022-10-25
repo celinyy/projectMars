@@ -3,41 +3,49 @@
     padding-left: 20%;
     padding-top: 0%;
 }
+.brim1{
+    width: 20%;
+    float: left;
+}
+.brim2{
+    width: 65%;
+    float: right;
+    padding-top: 10%;
+}
 #ascend{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
 }
 #bind{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
 }
 #breeze{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
     
 }
 #fracture{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
 }
 #haven{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
     
 }
-
 #icebox{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
 }
  #title{
     padding-left: 45%;
 }
  #pearl{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
 }
  #split{
-    width: 25%;
-    height: 25%;
+    width: 30%;
+    height: 30%;
 }
